@@ -1,16 +1,16 @@
-SMTP Email Sending Application
+SMTP Email Sending Application:
 This project demonstrates how to send emails using the SMTP (Simple Mail Transfer Protocol) protocol, with a focus on sending emails with text content and attachments.
 
 The application utilizes Python's smtplib and ssl libraries to securely send an email through Gmail's SMTP server.
 
-Features
+Features:
 Send an email with a subject, body, and attachment. Use TLS encryption for secure communication between the client and the Gmail SMTP server.
 
 Configurable sender and receiver email addresses.
 
 Supports sending plain text files as attachments.
 
-Prerequisites
+Prerequisites:
 Before running this project, ensure you have the following:
 
 A Gmail account with App Passwords enabled (if 2FA is enabled on your account).
@@ -19,7 +19,7 @@ The Python 3.x environment set up on your machine.
 
 The client file (client-file.txt) you wish to attach in the email.
 
-Requirements
+Requirements:
 You need to install the following Python libraries:
 
 smtplib (comes pre-installed with Python)
@@ -28,7 +28,7 @@ ssl (comes pre-installed with Python)
 
 email (comes pre-installed with Python)
 
-Setup
+Setup:
 Create an App-Specific Password:
 
 If you have 2-factor authentication enabled for your Gmail account, you will need to generate an App-Specific Password to log in via SMTP. You can generate one here.
@@ -38,7 +38,7 @@ Replace the email_sender and email_password variables with your Gmail address an
 
 Ensure the file you wish to attach (e.g., client-file.txt) is in the same directory or provide the correct path to the file.
 
-Running the Project
+Running the Project:
 Ensure you have set up the required email configurations.
 
 Open a terminal or command prompt in the directory where your Python script is located.
