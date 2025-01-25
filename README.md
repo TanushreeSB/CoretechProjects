@@ -3,7 +3,9 @@ This repo contains projects made for cse subjects:
 
 I) C
    Project : Expense Tracker
+   
    Features:
+   
       1) Input Validation: Added validation for the amount to ensure it's a positive number and for the date format.
       
       2) Dynamic Memory Allocation: The program uses dynamic memory for expenses, which will allow handling a variable number of records.
