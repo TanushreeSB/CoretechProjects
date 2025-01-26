@@ -1,6 +1,7 @@
 # CoreTechProjects
 
-This repository contains a collection of projects developed for various Computer Science Engineering (CSE) subjects. Each project showcases a different technology and its application, providing hands-on experience with real-world problems.
+This repository contains a collection of projects developed for various Computer Science Engineering (CSE) subjects. 
+Each project showcases a different technology and its application, providing hands-on experience with real-world problems.
 
 ## Table of Contents
 - [I) C](#i-c)
@@ -13,6 +14,7 @@ This repository contains a collection of projects developed for various Computer
 - [VIII) Data Science](#viii-data-science)
 - [IX) DSA](#ix-dsa)
 - [X) SEPM](#x-sepm)
+- [XI) CN: Email Deliver](#xi-cn-email-deliver)
 
 ---
 
@@ -45,7 +47,6 @@ This repository contains a collection of projects developed for various Computer
 ---
 
 ## IV) Python
-
 
 
 ---
@@ -87,9 +88,11 @@ This repository contains a collection of projects developed for various Computer
 ## VII) ML
 
 
+
 ---
 
 ## VIII) Data Science
+
 
 
 ---
@@ -97,18 +100,27 @@ This repository contains a collection of projects developed for various Computer
 ## IX) DSA
 
 
+
 ---
 
 ## X) SEPM
 
+*(Details for this section can be added when the project is specified)*
+
+---
+
+## XI) CN: Email Deliver
+
+### Features:
 
 
 ---
 
 ### Contributing:
 Feel free to contribute to any of the projects! To get started:
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Submit a pull request.
 
+---
