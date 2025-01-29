@@ -112,7 +112,8 @@ Each project showcases a different technology and its application, providing han
 ## XI) CN: Email Deliver
 
 ### Features:
-
+1. It uses SMTP protocol and we can directly send messages to one's email ID.
+2. It's easy to use
 
 ---
 
