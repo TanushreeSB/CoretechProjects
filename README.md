@@ -103,9 +103,8 @@ Each project showcases a different technology and its application, providing han
 
 ---
 
-## X) SEPM
+## X) SEPM: Leaf Disease Detection and Cure Tips Recommendation System
 
-*(Details for this section can be added when the project is specified)*
 
 ---
 
