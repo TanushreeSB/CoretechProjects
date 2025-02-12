@@ -104,7 +104,9 @@ Each project showcases a different technology and its application, providing han
 ---
 
 ## X) SEPM: Leaf Disease Detection and Cure Tips Recommendation System
-
+1. This is a leaf disease detection and cure tips system wherein user can easily upload image of leaf to find the disease.
+2. Cure tips will be provided, disease of leaf predicted through confidence score
+3. Both heathy and diseased can be distinguished.
 
 ---
 
