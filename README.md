@@ -105,15 +105,15 @@ scikit_learn==1.0.2
 
 4. MODELS USED
 
-1. Logistic Regression= simplest and most common algorithm used for classification problems
-2. Lasso Regression
-3. Decision Tree Regressor
+- Logistic Regression= simplest and most common algorithm used for classification problems
+- Lasso Regression
+- Decision Tree Regressor
 
 5. ACCURACIES
 
-1. Logistic Regression Score = 0.9994141897222906
-2. Lasso Regression Score = 0.9992782274568394
-3. Random Forest Regressor Score = 0.7965644733090571
+- Logistic Regression Score = 0.9994141897222906
+- Lasso Regression Score = 0.9992782274568394
+- Random Forest Regressor Score = 0.7965644733090571
 
 CONCLUSION
 
