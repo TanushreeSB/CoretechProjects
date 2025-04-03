@@ -91,8 +91,33 @@ Each project showcases a different technology and its application, providing han
 
 ---
 
-## VIII) Data Science
+## VIII) Data Science : Crypto Currency Price Prediction
+1. Requirements:
+matplotlib==3.4.2
+seaborn==0.9.0
+numpy==1.21.1
+pandas==1.3.0
+scikit_learn==1.0.2
 
+2. dataset: https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory
+   
+3. This is a regression problem where we need to predict the price of Bitcoin Crypto currency. We use Linear, Lasso Regression and Decision tree Regressor
+
+4. MODELS USED
+
+1. Logistic Regression= simplest and most common algorithm used for classification problems
+2. Lasso Regression
+3. Decision Tree Regressor
+
+5. ACCURACIES
+
+1. Logistic Regression Score = 0.9994141897222906
+2. Lasso Regression Score = 0.9992782274568394
+3. Random Forest Regressor Score = 0.7965644733090571
+
+CONCLUSION
+
+We can conclude that Linear Regression gives the most accurate results specifically for this problem statement.
 
 
 ---
