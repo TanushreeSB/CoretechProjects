@@ -86,12 +86,12 @@ Each project showcases a different technology and its application, providing han
 ---
 
 ## VII) ML: Pneumonia Disease detection using CNN
-1. AI-Powered Pneumonia Detection
+1. *AI-Powered Pneumonia Detection*
 - Uses a TensorFlow/Keras deep learning model (xray_model.hdf5) trained with 95% accuracy.
 
 - Processes chest X-rays to detect pneumonia or confirm a normal scan.
 
-2. Advanced Image Preprocessing
+2. *Advanced Image Preprocessing*
 - Enhances X-ray quality using:
 
 - Contrast adjustment (+50%)
@@ -102,7 +102,7 @@ Each project showcases a different technology and its application, providing han
 
 - Resizes images to 180x180 pixels for model compatibility.
 
-3. User-Friendly Interface
+3. *User-Friendly Interface*
 - Real-time upload & analysis: Drag-and-drop X-rays for instant results.
 
 - Sidebar with technical details:
@@ -111,13 +111,13 @@ Each project showcases a different technology and its application, providing han
 
 - Original image metadata (size, format).
 
-4. Clear visual output:
+4. *Clear visual output:*
 
 - Displays original vs. enhanced X-ray side by side.
 
 - Color-coded results (red for pneumonia, green for normal).
 
-5.  Medical Guidance & Emergency Advice
+5.  *Medical Guidance & Emergency Advice*
 - Tailored recommendations based on results:
 
 - If pneumonia detected: Urgent care steps, warning signs, and ER advice.
@@ -126,7 +126,7 @@ Each project showcases a different technology and its application, providing han
 
 - Symptom checklist (expandable section) for user reference.
 
-6. Automated PDF Report Generation
+6. *Automated PDF Report Generation*
 - Professional report includes:
 
 - Timestamp, filename, diagnosis, and confidence level.
@@ -137,7 +137,7 @@ Each project showcases a different technology and its application, providing han
 
 - One-click download (PDF format).
 
-7. Performance & Caching
+7. *Performance & Caching*
 - Caches the TensorFlow model to avoid reloading.
 
 - Processes images in 10-15 seconds (with progress spinner).
