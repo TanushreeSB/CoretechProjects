@@ -44,6 +44,7 @@ Each project showcases a different technology and its application, providing han
 2. **Secure Data Retrieval**: Utilizes Java's `HttpURLConnection` to securely fetch weather information from external APIs.
 3. **OpenWeatherMap API Integration**: Integrates with the OpenWeatherMap API to provide comprehensive weather details.
 
+
 ---
 
 ## IV) Python
@@ -185,6 +186,18 @@ We can conclude that Linear Regression gives the most accurate results specifica
 1. This is a leaf disease detection and cure tips system wherein user can easily upload image of leaf to find the disease.
 2. Cure tips will be provided, disease of leaf predicted through confidence score
 3. Both heathy and diseased can be distinguished.
+
+<img width="917" height="481" alt="image" src="https://github.com/user-attachments/assets/8f38b2bf-7fc2-4e43-94aa-504ddb8878b4" />
+
+<img width="940" height="426" alt="image" src="https://github.com/user-attachments/assets/498ca633-9616-49ca-8cd9-24a0b7d538f9" />
+
+<img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/a76389a5-b4a6-417b-a1ee-a6d32a8e3859" />
+
+<img width="940" height="446" alt="image" src="https://github.com/user-attachments/assets/ea7b1719-253c-4e36-b454-eb298bce0d41" />
+
+<img width="685" height="345" alt="image" src="https://github.com/user-attachments/assets/9fc5fe9b-2da6-4b3d-b35f-872cd8687a99" />
+
+<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/5e238b7c-eaba-4f9c-bf59-cd79cbf5f950" />
 
 ---
 
