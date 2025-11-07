@@ -143,6 +143,15 @@ Each project showcases a different technology and its application, providing han
 
 - Processes images in 10-15 seconds (with progress spinner).
 
+  <img width="1600" height="829" alt="image" src="https://github.com/user-attachments/assets/ee089974-f58a-4c78-811f-8a9cc9660209" />   <img width="1600" height="810" alt="image" src="https://github.com/user-attachments/assets/0a2584ae-95a6-4bfa-8985-b4854a7f432d" />
+
+ <img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/af2fa17a-cf10-4222-a7b9-f476adfedb0f" />   <img width="1600" height="823" alt="image" src="https://github.com/user-attachments/assets/40916bfa-2a33-43f3-8ddd-58f03e695327" />
+
+
+<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/37a8e2b1-92a8-468e-8451-5f58ae3dfdc2" />
+
+
+
 ---
 
 ## VIII) Data Science : Crypto Currency Price Prediction
