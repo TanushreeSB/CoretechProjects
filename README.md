@@ -47,7 +47,14 @@ Each project showcases a different technology and its application, providing han
 
 ---
 
-## IV) Python
+## IV) Python: Music Player App
+
+A GUI-based Music Player built with Tkinter and Pygame.
+Users can load songs from a folder, play, pause, resume, and stop them easily.
+
+- Install dependencies first:
+
+pip install pygame
 
 
 ---
