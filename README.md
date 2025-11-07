@@ -80,8 +80,68 @@ Each project showcases a different technology and its application, providing han
 
 ---
 
-## VI) DBMS
+## VI) DBMS: Library Management System
 
+The Library Management System is a web-based application designed to manage the daily operations of a library efficiently. It provides separate login access for students and teachers, allowing each user type to perform role-specific actions such as viewing, borrowing, and managing books. The system also includes functionalities for handling new arrivals, archived books, and fee management
+
+User Roles
+
+# Student Login:
+
+  View available books
+  
+  Borrow or return books
+  
+  Check due dates and pending fees
+
+# Teacher Login:
+
+  Add, update, or remove books
+  
+  Manage archived and new book sections
+  
+  Track student borrowing records
+
+# Book Management
+
+  Categorization of books into:
+  
+  New Books – Recently added to the library
+  
+  Archived Books – Old or reference-only books
+  
+  Search and filter books by title, author, or category
+
+Real-time availability status
+
+# Fee Management
+
+  Automatic fine calculation for late returns
+  
+  Payment tracking and history for students
+  
+  Admin overview of total collected fees
+
+  <img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/0fe8182e-cc98-4224-8544-dcb0ae6ece35" />
+
+<img width="1600" height="820" alt="image" src="https://github.com/user-attachments/assets/04ce7161-eca0-4e80-af7a-3cc7116d8ea5" />
+
+<img width="1600" height="843" alt="image" src="https://github.com/user-attachments/assets/e5f31302-80b9-4a74-bd0f-589d5fd8fb15" />
+
+<img width="1600" height="816" alt="image" src="https://github.com/user-attachments/assets/852ee9dc-e113-4c11-aacd-2bd72ab1775a" />
+
+<img width="1561" height="980" alt="image" src="https://github.com/user-attachments/assets/02c5abcf-52c2-4970-9556-3d28b7d46ee6" />
+<img width="1600" height="809" alt="image" src="https://github.com/user-attachments/assets/1a8f9523-056f-4894-a24d-35066b80b442" />
+
+<img width="1561" height="969" alt="image" src="https://github.com/user-attachments/assets/49ab1aea-5e3c-4a82-b19f-4754896dece9" />
+
+<img width="1600" height="675" alt="image" src="https://github.com/user-attachments/assets/4f5b5b72-4913-4574-a793-6dbb6226b4c9" />
+
+<img width="1600" height="877" alt="image" src="https://github.com/user-attachments/assets/26dedde5-02cb-4b5d-b635-99962283ee18" />
+
+<img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/b4c0775a-5857-4b8b-998c-15a18255842a" />
+
+<img width="1600" height="822" alt="image" src="https://github.com/user-attachments/assets/16c1617b-a9db-498e-a73f-6d2ca96ef4de" />
 
 
 ---
